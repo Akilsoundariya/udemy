@@ -14,6 +14,8 @@ font-family: "Gabarito", sans-serif;
     gap: 10px;
     align-items: center;
     flex-wrap: wrap;
+    
+     justify-content: space-between;
 }
 .navbar__S1--title{
     color:#A83FF0 ;
@@ -126,3 +128,4 @@ align-items: center;
 margin: 10px;
 
 }
+
