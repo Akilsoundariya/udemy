@@ -47,14 +47,14 @@ font-family: "Gabarito", sans-serif;
     justify-content: space-around;
     
     flex-wrap: wrap;
-    gap:20px;
+
     
 }
 .categories p
 {
     background-color: #A83FF0;
     color: white;
-    padding: 10px;
+    padding: 40px;
     border-radius: 30px;
 }
 .Sale_img img {
@@ -129,6 +129,7 @@ align-items: center;
 margin: 10px;
 
 }
+
 
 
 
