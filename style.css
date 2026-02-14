@@ -13,9 +13,6 @@ font-family: "Gabarito", sans-serif;
     border-bottom: solid black 1px;
     gap: 10px;
     align-items: center;
-    flex-wrap: wrap;
-    
-     justify-content: space-between;
 }
 .navbar__S1--title{
     color:#A83FF0 ;
@@ -48,6 +45,9 @@ font-family: "Gabarito", sans-serif;
     padding: 10px;
     border-bottom: solid black 1px;
     justify-content: space-around;
+    
+    flex-wrap: wrap;
+    
 }
 .categories p
 {
@@ -128,4 +128,5 @@ align-items: center;
 margin: 10px;
 
 }
+
 
