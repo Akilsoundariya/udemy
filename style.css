@@ -47,7 +47,7 @@ font-family: "Gabarito", sans-serif;
     justify-content: space-around;
     
     flex-wrap: wrap;
-gap:5px;
+
     
 }
 .categories p
@@ -130,6 +130,7 @@ align-items: center;
 margin: 10px;
 
 }
+
 
 
 
