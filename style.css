@@ -1,3 +1,169 @@
+<<<<<<< HEAD
+*{
+    margin: 0;
+    padding: 0;}
+    .body
+    {
+
+font-family: "Gabarito", sans-serif;
+}
+.navbar{
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: solid black 1px;
+    gap: 10px;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+.navbar__S1--title{
+    color:#A83FF0 ;
+}
+.navbar__S2{
+    padding: 10px;
+    border: solid black 1px;
+    border-radius: 30px;
+    width: 60%;
+    display: flex;
+    gap: 10px;
+    background-color: white;
+}
+.navbar__S2 input{
+    border: none;
+    width: 100%;
+    font-size: 16px;
+    align-items: center;
+    background-color: transparent;
+}
+.navbar__S2 input:focus
+{
+    outline: none;
+} 
+.navbar__S3{
+    display: flex;
+    gap:10px;
+    align-items: center;
+}
+/* my learning */
+.mylearning{
+    position: relative;
+    cursor: pointer;
+
+}
+.mylearning__popup{
+position: absolute;
+border: solid black 1px;
+background-color: white;
+width: 80PX;
+TOP: 100%;
+padding: 20px;
+right:30;
+display: none;
+
+}
+.mylearning:hover .mylearning__popup{
+    display: block;
+}
+
+.categories{
+    display: flex;
+    padding: 10px;
+    border-bottom: solid black 1px;
+    justify-content: space-around;
+}
+.categories p
+{
+    background-color: #A83FF0;
+    color: white;
+    padding: 10px;
+    border-radius: 30px;
+}
+.Sale_img img {
+    width: 100%;
+    position: relative;
+ 
+}
+.sale-image__offer{
+    width:25%  ;
+     border:  solid black 2px;
+    background-color: white;
+    padding: 2%;
+    position: absolute;
+    top:30%;
+left:10%;
+
+}
+.Recommended{
+    padding: 10px;
+}
+.course-card
+{
+    width: 250px;
+}
+.course-card img
+{
+    width: 100%;
+}
+.Recommended_container{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+flex-wrap: wrap;
+
+}
+.topics{
+    padding: 10px;
+}
+.topics__container{
+    display: flex;
+    gap:10px;
+    margin-top: 10px;
+    flex-wrap: wrap;
+
+
+}
+.topics__container p{
+    border: solid grey 2px;
+padding: 10px;
+flex-grow: 1;
+flex-basis: 25%;
+}
+.Popular{
+    padding: 20px;
+}
+.Popular__container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 10px;
+
+
+}
+.footer{
+    padding: 30px;
+    background-color: black;
+    color: white;
+
+
+}
+
+.footer_one{
+display: flex;
+gap: 10px;
+}
+.footer_two{
+display: flex;
+justify-content: space-between;
+margin: 10px;
+align-items: center;
+
+}
+.footer_one p{
+margin: 10px;
+}
+=======
 *{
     margin: 0;
     padding: 0;}
@@ -142,3 +308,4 @@ margin: 10px;
 
 
 
+>>>>>>> 4efd6eda72209c8dc60992db2ffead364b8043a2
