@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 *{
     margin: 0;
     padding: 0;}
@@ -17,7 +16,6 @@ font-family: "Gabarito", sans-serif;
     position: sticky;
     top: 0;
     z-index: 1;
-  
         background-color: white;
 }
 .navbar__S1--title{
@@ -30,6 +28,7 @@ font-family: "Gabarito", sans-serif;
     width: 60%;
     display: flex;
     gap: 10px;
+
 }
 .navbar__S2 input{
     border: none;
@@ -164,150 +163,3 @@ align-items: center;
 .footer_one p{
 margin: 10px;
 }
-=======
-*{
-    margin: 0;
-    padding: 0;}
-    .body
-    {
-
-font-family: "Gabarito", sans-serif;
-}
-.navbar{
-    padding: 10px;
-    display: flex;
-    justify-content: space-between;
-    border-bottom: solid black 1px;
-    gap: 10px;
-    align-items: center;
-
-    flex-wrap: wrap;
-
-}
-.navbar__S1--title{
-    color:#A83FF0 ;
-}
-.navbar__S2{
-    padding: 10px;
-    border: solid black 1px;
-    border-radius: 30px;
-    width: 60%;
-    display: flex;
-    gap: 10px;
-}
-.navbar__S2 input{
-    border: none;
-    width: 100%;
-    font-size: 16px;
-    align-items: center;
-}
-.navbar__S2 input:focus
-{
-    outline: none;
-} 
-.navbar__S3{
-    display: flex;
-    gap:10px;
-    align-items: center;
-}
-.categories{
-    display: flex;
-    padding: 10px;
-    border-bottom: solid black 1px;
-    justify-content: space-around;
-    
-    flex-wrap: wrap;
-
-    
-}
-.categories p
-{
-    background-color: #A83FF0;
-    color: white;
-    padding: 10px;
-    border-radius: 30px;
-    
-}
-.Sale_img img {
-    width: 100%;
-}
-.Recommended{
-    padding: 10px;
-}
-.course-card
-{
-    width: 250px;
-}
-.course-card img
-{
-    width: 100%;
-}
-.Recommended_container{
-    display: flex;
-    justify-content: space-between;
-    margin-top: 10px;
-flex-wrap: wrap;
-
-}
-.topics{
-    padding: 10px;
-}
-.topics__container{
-    display: flex;
-    gap:10px;
-    margin-top: 10px;
-    flex-wrap: wrap;
-
-
-}
-.topics__container p{
-    border: solid grey 2px;
-padding: 10px;
-flex-grow: 1;
-flex-basis: 25%;
-}
-.Popular{
-    padding: 20px;
-}
-.Popular__container{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    margin-top: 10px;
-
-
-}
-.footer{
-    padding: 30px;
-    background-color: black;
-    color: white;
-
-
-}
-
-.footer_one{
-display: flex;
-gap: 10px;
-}
-.footer_two{
-display: flex;
-justify-content: space-between;
-margin: 10px;
-align-items: center;
-
-}
-.footer_one p{
-margin: 10px;
-
-}
-
-
-
-
-
-
-
-
-
->>>>>>> 4efd6eda72209c8dc60992db2ffead364b8043a2
-
