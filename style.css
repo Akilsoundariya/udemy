@@ -17,6 +17,8 @@ font-family: "Gabarito", sans-serif;
     position: sticky;
     top: 0;
     z-index: 1;
+  
+        background-color: white;
 }
 .navbar__S1--title{
     color:#A83FF0 ;
@@ -28,7 +30,6 @@ font-family: "Gabarito", sans-serif;
     width: 60%;
     display: flex;
     gap: 10px;
-    background-color: white;
 }
 .navbar__S2 input{
     border: none;
@@ -309,3 +310,4 @@ margin: 10px;
 
 
 >>>>>>> 4efd6eda72209c8dc60992db2ffead364b8043a2
+
